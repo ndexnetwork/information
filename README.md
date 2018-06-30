@@ -34,10 +34,17 @@ Please note, we are working hard behind the screen to live our wesite with MVP a
 nDEX Network
 ----
 Next generation decentralized ERC20 token exchange
+
 Palm Street, Victoria, Seychelles
-Telegram channel: https://t.me/ndexofficialchannel
+
+Visit: https://ndexnetwork.com
+
+Telegram : https://t.me/ndexofficial
+
 Reddit: https://www.reddit.com/user/nDEXofficial/
+
 GitHub: https://gist.github.com/ndexvictoria
+
 Twitter: https://twitter.com/NdexOfficial
 Facebook: https://web.facebook.com/ndexvictoria
 Medium: https://medium.com/@nDEXofficial
